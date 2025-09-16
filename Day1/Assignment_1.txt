@@ -1,0 +1,1 @@
+Question: Explain the core concepts of Natural Language Processing (NLP) and discuss the importance of preprocessing techniques such as tokenization, stemming, lemmatization, part-of-speech tagging, and stop words removal in NLP applications. Provide an example of how these techniques can be applied in a real-world NLP task.

@@ -1,0 +1,3 @@
+1.	GitHub Copilot Exploration:
+o	Scenario: You’re working on a Python project that involves data analysis. You need to write a function that calculates the average of a list of numbers.
+o	Task: Use GitHub Copilot to generate the Python function that computes the average of a given list.

@@ -1,0 +1,5 @@
+Questions:
+
+How does the generate_text function work, and what strategies does it support for text generation?
+Can you provide an example of text generated using the "creative" strategy for a given prompt?
+Discuss the significance of selecting an appropriate strategy for text generation using prompts.

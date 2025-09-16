@@ -1,0 +1,5 @@
+Questions:
+
+How does the generate_prompt function work, and what categories of prompts does it support?
+Can you provide an example of a prompt generated for the "completion" category?
+Discuss the significance of well-crafted prompts in prompt engineering.
