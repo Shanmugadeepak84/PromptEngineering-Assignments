@@ -1,3 +1,30 @@
 1.	GitHub Copilot Exploration:
 o	Scenario: You’re working on a Python project that involves data analysis. You need to write a function that calculates the average of a list of numbers.
 o	Task: Use GitHub Copilot to generate the Python function that computes the average of a given list.
+
+Answer:
+Step 1: Open Your Python File
+
+Open a file in VS Code or your IDE (e.g., average.py).
+
+Step 2: Write a Clear Prompt as a Comment
+
+Copilot responds to comments as prompts.
+
+Type:
+
+# Write a Python function that calculates the average of a list of numbers
+
+Step 3: Wait for Copilot’s Suggestion
+
+Copilot will automatically suggest a code snippet below the comment (in gray text).
+If it doesn’t, press Ctrl + Enter (Windows) to manually trigger the suggestion.
+
+Expected GitHub Copilot Output
+
+Copilot will likely generate something like this:
+
+def calculate_average(numbers):
+    if not numbers:
+        return 0
+    return sum(numbers) / len(numbers)
